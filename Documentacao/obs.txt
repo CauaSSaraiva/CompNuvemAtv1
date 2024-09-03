@@ -1,0 +1,2 @@
+A documentação das etapas está no README, aqui é só pra separar a imagem
+embora a imagem/print também esteja no readme.
